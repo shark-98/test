@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "前端测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shark-98/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.28.5"
+  },
+  "bugs": {
+    "url": "https://github.com/shark-98/test/issues"
+  },
+  "homepage": "https://github.com/shark-98/test#readme"
+}
