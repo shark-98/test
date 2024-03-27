@@ -4,7 +4,8 @@
   "description": "前端测试",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "test:ui": "vitest --ui"
   },
   "repository": {
     "type": "git",
@@ -14,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vitest/ui": "^0.2.8",
     "vitest": "^0.28.5"
   },
   "bugs": {
